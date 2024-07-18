@@ -1,0 +1,4 @@
+services:
+  web:
+    volumes:
+      - "$HOME/dev/constructive/dp-rest-consumer:/var/www/html/web/modules/custom/drupal-rest-consumer"
