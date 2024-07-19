@@ -1,0 +1,3 @@
+rest_endpoint: 'https://wp-site.ddev.site/wp-json/wp-post-rest/v1/getposts/15'
+rest_page_enabled: 1
+rest_block_enabled: 1
